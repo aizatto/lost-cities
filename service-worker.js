@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lost-cities/precache-manifest.a48f14b2ff2174384136b5e9d504e576.js"
+  "/lost-cities/precache-manifest.8400ba611af5774af3117ba81376dde8.js"
 );
 
 self.addEventListener('message', (event) => {
