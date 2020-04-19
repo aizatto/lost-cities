@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lost-cities/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/lost-cities/static/js/main.6fe92da5.chunk.js",
+    "main.js.map": "/lost-cities/static/js/main.6fe92da5.chunk.js.map",
+    "runtime-main.js": "/lost-cities/static/js/runtime-main.95969cc5.js",
+    "runtime-main.js.map": "/lost-cities/static/js/runtime-main.95969cc5.js.map",
+    "static/css/2.a43b59a1.chunk.css": "/lost-cities/static/css/2.a43b59a1.chunk.css",
+    "static/js/2.8f0c0bdc.chunk.js": "/lost-cities/static/js/2.8f0c0bdc.chunk.js",
+    "static/js/2.8f0c0bdc.chunk.js.map": "/lost-cities/static/js/2.8f0c0bdc.chunk.js.map",
+    "index.html": "/lost-cities/index.html",
+    "precache-manifest.a48f14b2ff2174384136b5e9d504e576.js": "/lost-cities/precache-manifest.a48f14b2ff2174384136b5e9d504e576.js",
+    "service-worker.js": "/lost-cities/service-worker.js",
+    "static/css/2.a43b59a1.chunk.css.map": "/lost-cities/static/css/2.a43b59a1.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/lost-cities/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.8f0c0bdc.chunk.js.LICENSE.txt": "/lost-cities/static/js/2.8f0c0bdc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95969cc5.js",
+    "static/css/2.a43b59a1.chunk.css",
+    "static/js/2.8f0c0bdc.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.6fe92da5.chunk.js"
+  ]
+}
