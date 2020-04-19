@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7780ad1428c80cfd0ccf2cb2b243be63",
+    "revision": "8986baa68206e2ed2fcdcb35de6499ef",
     "url": "/lost-cities/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lost-cities/static/css/2.a43b59a1.chunk.css"
   },
   {
-    "revision": "0f8cc357334059931a60",
+    "revision": "a3aa1c330368c54f1a65",
     "url": "/lost-cities/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lost-cities/static/js/2.8f0c0bdc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f8cc357334059931a60",
-    "url": "/lost-cities/static/js/main.5ad0e3ce.chunk.js"
+    "revision": "a3aa1c330368c54f1a65",
+    "url": "/lost-cities/static/js/main.e5044200.chunk.js"
   },
   {
     "revision": "1ce89ae355b0a17c6f88",
